@@ -8,4 +8,6 @@
 print('Hello World')
 deployment5 master
 deployment4 dev
-deploy to staging
+deploy to staging environment
+echo good job.
+Tested and accepted
